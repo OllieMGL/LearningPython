@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 posts = [
     {
-        'author' : "Ollie Garvin",
+        'author' : "Ollie Garvin ",
         'title' : "blog post 1",
         'content' : "first post content",
         'date_posted' : 'April 20, 2018'
